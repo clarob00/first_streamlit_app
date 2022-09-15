@@ -8,4 +8,4 @@ streamlit.header('Breakfast menu')
 streamlit.text('\U0001f600 Omega 3 & Blueberry Oatmeal')
 
 streamlit.header('Build your own fruit smoothie')
-streamlit.dataframe(my_fruit_list)
+
